@@ -11,3 +11,6 @@ func GetBB() string {
 func GetBBB() string {
 	return "GetBBB"
 }
+func GetBBBB() string {
+	return "GetBBBB"
+}
