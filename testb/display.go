@@ -7,3 +7,7 @@ func GetB() string {
 func GetBB() string {
 	return "GetBB"
 }
+
+func GetBBB() string {
+	return "GetBBB"
+}
