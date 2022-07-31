@@ -11,3 +11,7 @@ func GetAA() string {
 func GetAAA() string {
 	return "GetAAA"
 }
+
+func GetAAAA() string {
+	return "GetAAAA"
+}
